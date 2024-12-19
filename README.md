@@ -1,8 +1,50 @@
-# React + Vite
+<h1>Todo Front</h1>
+<p>
+Todofront es la interfaz de usuario (frontend) para una aplicación de gestión de tareas. Fue desarrollada con React y Vite para ofrecer una experiencia de usuario rápida y moderna.
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<h2>
+Requisitos
+</h2>
 
-Currently, two official plugins are available:
+<p>
+Asegúrate de tener instalados los siguientes programas en tu máquina:
+</p>
+- Vite
+- npm
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+<h2>
+Instalación
+</h2>
+- Clona el repositorio en tu equipo
+
+```
+git clone <URL_del_Repositorio>
+```
+
+- Instala las Dependencias del Proyecto
+
+```
+npm install
+```
+<h2>
+Uso
+</h2>
+
+- Inicia el Servidor con el comando:
+
+```
+npm run dev
+```
+
+<h2>
+Dependencias
+</h2>
+<ul>
+<p>
+<li>React: Librería para construir interfaces de usuario.</li>
+<li>React Router DOM: Para manejar el enrutamiento dentro de la aplicación.</li>
+<li>Axios: Cliente HTTP para interactuar con APIs.</li>
+<li>express: Framework para crear el servidor</li>
+</p>
+</ul>
