@@ -10,7 +10,9 @@ Requisitos
 <p>
 Asegúrate de tener instalados los siguientes programas en tu máquina:
 </p>
+
 - Vite
+
 - npm
 
 <h2>
